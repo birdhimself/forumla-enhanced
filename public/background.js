@@ -260,9 +260,9 @@ chrome.tabs.onUpdated.addListener(async (tabId, changeInfo, tab) => {
               } else if (DATE_REGEXP.test(value)) {
                 const match = value.match(DATE_REGEXP);
 
-                ts.setDate(+match[1]);
+                ts.setFullYear(+match[3]);
                 ts.setMonth(+match[2] - 1);
-                ts.setYear(+match[3]);
+                ts.setDate(+match[1]);
                 ts.setHours(+match[4]);
                 ts.setMinutes(+match[5]);
               } else {
