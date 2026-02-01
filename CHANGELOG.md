@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.1.1 (2026-02-01)
+
+- Abhängigkeiten aktualisiert
+- Falsche Darstellung relativer Zeitstempel behoben, wenn der aktuelle Monat weniger Tage als der Tag des Zeitstempels hat
+
 ## v2.1.0 (2023-12-09)
 
 - Neue Einstellung, um den Vollbild-Modus bei eingebetteten YouTube-Videos zu erlauben
