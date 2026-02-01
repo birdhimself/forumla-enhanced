@@ -1,10 +1,7 @@
 # Forumla Enhanced
 
-[![Available in the Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chromewebstore.google.com/detail/forumla-enhanced-beta/ilplcmogdmdceejlebllhjfigkamngig)
-[![Get the Add-On for Firefox](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/en-US/firefox/addon/forumla-enhanced/)
-
-![](https://img.shields.io/chrome-web-store/v/ilplcmogdmdceejlebllhjfigkamngig)
-![](https://img.shields.io/amo/v/forumla-enhanced)
+[![](https://img.shields.io/chrome-web-store/v/ilplcmogdmdceejlebllhjfigkamngig?style=for-the-badge)](https://chromewebstore.google.com/detail/forumla-enhanced/ilplcmogdmdceejlebllhjfigkamngig)
+[![](https://img.shields.io/amo/v/forumla-enhanced?style=for-the-badge)](https://addons.mozilla.org/firefox/addon/forumla-enhanced/)
 
 Inoffizielles Browser Add-On für [forumla.de](https://forumla.de).
 
@@ -14,8 +11,8 @@ Inoffizielles Browser Add-On für [forumla.de](https://forumla.de).
 
 ### Voraussetzungen _Requirements_
 
-- Node.js >= 20
-- npm >= 10
+- Node.js >= 24
+- npm >= 11
 
 ### Schritte _Steps_
 
