@@ -19,6 +19,9 @@ async function postbuild() {
   manifest.browser_specific_settings = {
     gecko: {
       id: "{8abca5e8-b1fb-4314-a0fb-b2fece5325c7}",
+      data_collection_permissions: {
+        required: ["none"],
+      },
     },
   };
 
