@@ -24,10 +24,10 @@ _Clone this repository:_
 
 ```sh
 # HTTPS
-git clone https://github.com/C0Nd3Mnd/forumla-enhanced.git
+git clone https://github.com/birdhimself/forumla-enhanced.git
 
 # SSH
-git clone git@github.com:C0Nd3Mnd/forumla-enhanced.git
+git clone git@github.com:birdhimself/forumla-enhanced.git
 ```
 
 Pakete installieren:\

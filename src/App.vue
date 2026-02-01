@@ -131,7 +131,7 @@ function requestOriginPermission() {
             </a>
           </span>
           <a
-            href="https://github.com/C0Nd3Mnd/forumla-enhanced"
+            href="https://github.com/birdhimself/forumla-enhanced"
             title="GitHub"
             target="_blank"
             class="text-white"

@@ -36,7 +36,7 @@
 
 - Vollständiges Rewrite der alten Version (0.3.0)
   - Mit allen Funktionen aus der alten Version, überarbeitet
-  - Basierend auf [Oyle Enhanced](https://github.com/C0Nd3Mnd/oyle-enhanced)
+  - Basierend auf [Oyle Enhanced](https://github.com/birdhimself/oyle-enhanced)
 - Verbessertes Verhalten bei Sprüngen zu Posts mit angepinntem Header (Beta)
 - Unterstützung für die meisten Styles
   - Forumla 4.2 (Standard-Style)
