@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.1.2 (2026-02-01)
+
+- Angabe im Manifest, dass keine Daten gesammelt werden
+
 ## v2.1.1 (2026-02-01)
 
 - Abhängigkeiten aktualisiert
