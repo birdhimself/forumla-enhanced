@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { defineProps } from "vue";
 import { useAddonStore } from "../stores/addon";
 
 const addonStore = useAddonStore();

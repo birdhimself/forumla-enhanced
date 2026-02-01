@@ -1,9 +1,9 @@
 import { promises as fs } from "fs";
-import pkg from "./package.json" assert { type: "json" };
+import pkg from "./package.json" with { type: "json" };
 
 async function postbuild() {
   const json = await fs.readFile("dist/manifest.json");
-  const manifest = JSON.parse(json);
+  const manifest = JSON.parse(json.toString());
 
   manifest.version = pkg.version;
 

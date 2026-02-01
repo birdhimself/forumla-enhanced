@@ -12,15 +12,15 @@ Inoffizielles Browser Add-On für [forumla.de](https://forumla.de).
 
 ## Build
 
-### Voraussetzungen *Requirements*
+### Voraussetzungen _Requirements_
 
-* Node.js >= 20
-* npm >= 10
+- Node.js >= 20
+- npm >= 10
 
-### Schritte *Steps*
+### Schritte _Steps_
 
 Repository klonen:\
-*Clone this repository:*
+_Clone this repository:_
 
 ```sh
 # HTTPS
@@ -31,18 +31,18 @@ git clone git@github.com:C0Nd3Mnd/forumla-enhanced.git
 ```
 
 Pakete installieren:\
-*Install packages:*
+_Install packages:_
 
 ```sh
 npm install
 ```
 
 Build ausführen:\
-*Run build:*
+_Run build:_
 
 ```sh
 npm run build
 ```
 
 Hierbei werden zwei Ordner erzeugt, wobei `dist` den Build für Chromium-basierte Browser enthält und `dist-firefox` den angepassten Build für Firefox.\
-*This will create two folders, where `dist` contains the build for Chromium based browsers and `dist-firefox` contains a slightly modified build for Firefox.*
+_This will create two folders, where `dist` contains the build for Chromium based browsers and `dist-firefox` contains a slightly modified build for Firefox._
